@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Header, SideMenu } from "../../Components";
+import { Header, SideMenu } from "../../../Components";
 import { Empty } from "antd";
 
 function CroDashboard() {
